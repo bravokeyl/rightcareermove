@@ -35,3 +35,13 @@
  .mu-top-header i {
    padding: 10px;
  }
+
+@media only screen and (max-width: 480px){
+  .mu-left,
+  .mu-right {
+    float: none;
+  }
+  .widget--home.widget_wp_posts_carousel {
+    margin-top: 10px;
+  }
+}
