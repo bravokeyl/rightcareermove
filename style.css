@@ -44,4 +44,7 @@
   .widget--home.widget_wp_posts_carousel {
     margin-top: 10px;
   }
+  .job_listing-title, .resume-title {
+    font-size: 16px;
+  }
 }
