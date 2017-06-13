@@ -28,9 +28,10 @@
 					</div>
 				</div>
 				<div class="mu-right">
-					<i class="fa fa-facebook"></i>
-					<i class="fa fa-twitter"></i>
-					<i class="fa fa-whatsapp"></i>
+					<a href="https://www.facebook.com/RightCareerMove"><i class="fa fa-facebook"></i></a>
+					<a href="https://www.linkedin.com/company/right-career-move"><i class="fa fa-linkedin"></i></a>
+					<a href="https://twitter.com/rightcareermove"><i class="fa fa-twitter"></i></a>
+					<a href="https://rightcareermove.com/quick-contact-form"><i class="fa fa-whatsapp"></i></a>
 				</div>
 			</div>
 		</div>
