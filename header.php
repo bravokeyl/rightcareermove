@@ -18,8 +18,14 @@
 		<div class="mu-top-header">
 			<div class="container">
 				<div class="mu-left">
-					<div class="mu-inbl mu-tel"><i class="fa fa-telephone"></i><span>+971553093419</span></div>
-					<div class="mu-inbl mu-email"><i class="fa fa-email"></i><span>info@rightcareermove.com</span></div>
+					<div class="mu-inbl mu-tel">
+						<i class="fa fa-phone"></i>
+						<span>+971553093419</span>
+					</div>
+					<div class="mu-inbl mu-email">
+						<i class="fa fa-envelope"></i>
+						<span>info@rightcareermove.com</span>
+					</div>
 				</div>
 				<div class="mu-right">
 					<i class="fa fa-facebook"></i>
