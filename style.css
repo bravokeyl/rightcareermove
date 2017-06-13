@@ -16,3 +16,6 @@
  *
  * Place Custom CSS Below this.
  */
+ .mu-inbl {
+   display: inline-block;
+ }

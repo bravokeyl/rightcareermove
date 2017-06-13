@@ -16,14 +16,16 @@
 
 	<div id="page" class="hfeed site">
 		<div class="mu-top-header">
-			<div class="mu-left">
-				<div class="mu-tel"><span>+971553093419</span></div>
-				<div class="mu-email"><span>info@rightcareermove.com</span></div>
-			</div>
-			<div class="mu-right">
-				<i class="fa fa-facebook"></i>
-				<i class="fa fa-twitter"></i>
-				<i class="fa fa-whatsapp"></i>
+			<div class="container">
+				<div class="mu-left">
+					<div class="mu-inbl mu-tel"><span>+971553093419</span></div>
+					<div class="mu-inbl mu-email"><span>info@rightcareermove.com</span></div>
+				</div>
+				<div class="mu-right">
+					<i class="fa fa-facebook"></i>
+					<i class="fa fa-twitter"></i>
+					<i class="fa fa-whatsapp"></i>
+				</div>
 			</div>
 		</div>
 		<header id="masthead" class="site-header" role="banner">
