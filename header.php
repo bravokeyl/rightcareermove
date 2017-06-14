@@ -20,18 +20,18 @@
 				<div class="mu-left">
 					<div class="mu-inbl mu-tel">
 						<i class="fa fa-phone"></i>
-						<span>+971553093419</span>
+            <span><a href="tel:+971553093419">+971553093419</a> | <a href="tel:+919632801486">+919632801486</a></span>
 					</div>
 					<div class="mu-inbl mu-email">
 						<i class="fa fa-envelope"></i>
-						<span>info@rightcareermove.com</span>
+            <span><a target="_blank" href="mailto:info@rightcareermove.com">info@rightcareermove.com</a></span>
 					</div>
 				</div>
 				<div class="mu-right">
-					<a href="https://www.facebook.com/RightCareerMove"><i class="fa fa-facebook"></i></a>
-					<a href="https://www.linkedin.com/company/right-career-move"><i class="fa fa-linkedin"></i></a>
-					<a href="https://twitter.com/rightcareermove"><i class="fa fa-twitter"></i></a>
-					<a href="https://rightcareermove.com/quick-contact-form"><i class="fa fa-whatsapp"></i></a>
+					<a  target="_blank" href="https://www.facebook.com/RightCareerMove"><i class="fa fa-facebook"></i></a>
+					<a  target="_blank" href="https://www.linkedin.com/company/right-career-move"><i class="fa fa-linkedin"></i></a>
+					<a  target="_blank" href="https://twitter.com/rightcareermove"><i class="fa fa-twitter"></i></a>
+					<a  target="_blank" href="https://www.rightcareermove.com/whatsapp"><i class="fa fa-whatsapp"></i></a>
 				</div>
 			</div>
 		</div>
