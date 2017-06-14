@@ -43,6 +43,10 @@
   font-size: 18px;
   line-height: 1.625;
 }
+.footer-social a:last-child:before {
+  content: '\f232';
+  font-family: FontAwesome;
+}
 @media only screen and (max-width: 480px){
   .mu-left,
   .mu-right {
